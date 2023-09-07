@@ -1,6 +1,6 @@
 # AIAlgorithmLessons
 ## Studying about algorithm lessons for AI
-### 1-) FIFO
-### 2-) LIFO
-### 3-)Maze Problem Solution
-### 4-)...
+### 1-) BreathFirstSearch(FIFO)
+### 2-) DepthFirstSearch(LIFO)
+### 3-) Maze Problem Solution
+### 4-) Iterative Deepening Depth First-Search (IDDFS)
