@@ -10,7 +10,7 @@ public class Main {
         Node node4 = new Node("E");
         Node node5 = new Node("H");
         /*
-        if we will not add the node 5 and after we will create new algorithm from IDFFS(node5)
+        if we will not add the node5 and after we will create new algorithm from IDFFS(node5)
           IDDFS algorithm = new IDDFS(node5);
         algorithm.setTargetNode(node0);
         A
