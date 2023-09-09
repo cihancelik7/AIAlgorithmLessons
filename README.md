@@ -6,3 +6,4 @@
 ### 4-) Iterative Deepening Depth First-Search (IDDFS)
 ### 5-) A* Search
 ### 6-) Brute-First Method
+### 7-) Hill Climbing Algorithm
