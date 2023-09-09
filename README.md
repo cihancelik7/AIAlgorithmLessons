@@ -1,4 +1,4 @@
-# AIAlgorithmLessons
+# AI Algorithm Lessons
 ## Studying about algorithm lessons for AI
 ### 1-) BreathFirstSearch(FIFO)
 ### 2-) DepthFirstSearch(LIFO)
